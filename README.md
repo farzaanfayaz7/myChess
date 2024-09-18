@@ -1,12 +1,12 @@
 myChess
 
-Welcome to the Chess Project! This web-based chess game allows you to play against yourself or simply explore chess moves. It features a random move generator, undo functionality, and the ability to reset the game. The game utilizes chessboard.js for a beautiful chessboard and piece set.
+Welcome to the myChess! This web-based chess game allows you to play against computer or simply explore chess moves. It features a random move generator, undo functionality, and the ability to reset the game. The game utilizes chessboard.js for a beautiful chessboard and piece set.
 
 Play here : https://mychess-farzaan.netlify.app/
 
 Features:
 
-    Random Move Generator: Generate random legal moves for any side.
+    Random Move Generator: Generate random legal moves.
     Undo Move: Step back to the previous state of the game.
     Reset Game: Start a new game at any time.
     Responsive Design: Play on desktop and mobile devices.
